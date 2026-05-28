@@ -1,6 +1,6 @@
 ## Oi 👋, eu sou Mikael Caleb - Estudante Engenharia de Dados  
 
-- 🔭 Hoje sou empresário 
+
 - 💬 Qualquer coisa fala comigo
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaelcaleb&show_icons=true&theme=radical)](https://github.com/mikaelcaleb/github-readme-stats)
